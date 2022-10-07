@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/se_project_react/static/css/main.e835cb3a.css",
-    "main.js": "/se_project_react/static/js/main.6237e18f.js",
+    "main.js": "/se_project_react/static/js/main.30d883ef.js",
     "static/js/787.79f92504.chunk.js": "/se_project_react/static/js/787.79f92504.chunk.js",
     "static/media/__avatar.jpg": "/se_project_react/static/media/__avatar.63273c4d65555cc52217.jpg",
     "static/media/CabinetGrotesk-Bold.otf": "/se_project_react/static/media/CabinetGrotesk-Bold.2619526040c3adf53b83.otf",
@@ -17,11 +17,11 @@
     "index.html": "/se_project_react/index.html",
     "static/media/__close-modal.svg": "/se_project_react/static/media/__close-modal.34bff1eb1ed0331b4c52.svg",
     "main.e835cb3a.css.map": "/se_project_react/static/css/main.e835cb3a.css.map",
-    "main.6237e18f.js.map": "/se_project_react/static/js/main.6237e18f.js.map",
+    "main.30d883ef.js.map": "/se_project_react/static/js/main.30d883ef.js.map",
     "787.79f92504.chunk.js.map": "/se_project_react/static/js/787.79f92504.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e835cb3a.css",
-    "static/js/main.6237e18f.js"
+    "static/js/main.30d883ef.js"
   ]
 }
